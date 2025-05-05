@@ -1,8 +1,5 @@
 # Hi there, I'm [Stacy Chege]! 👋
 
-![Banner](https://files.chatboxcdn.com/hub/vv1ftfbhsq5y0n9lj6f7u40pvjzn7yhj.png)
-
-
 ## About Me 🚀
 
 I'm a passionate **Full Stack Developer in training** with a growing interest in **Cybersecurity**. I have hands-on experience in **problem solving**, **time and energy management**, **attention to detail**, **communication**, and **collaboration**. I’m building a strong foundation in **HTML, CSS, JavaScript, Python, Django, SQL**, and **Linux**.
