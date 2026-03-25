@@ -1,67 +1,70 @@
-# <h1 align="center">Hi there, I'm Stacy Chege! 👋</h1>
+Stacy Chege
 
-<p align="center">
-  <em>Front-End Developer & Cybersecurity Enthusiast | Technology and Digital Innovation Officer<br>
-  Nairobi, Kenya</em>
-</p>
+Front-End Developer and Cybersecurity Enthusiast | Technology and Digital Innovation Officer
+Nairobi, Kenya
 
 ---
 
-### 👩🏽‍💻 About Me
+Professional Profile
 
-[cite_start]I am an enthusiastic and driven developer with a dual focus on **Front-End Development** and **Cybersecurity**[cite: 4]. [cite_start]I specialize in building secure, user-focused digital solutions that bridge the gap between complex code and community impact[cite: 4, 7].
-
-[cite_start]Currently, I serve as the **Technology and Digital Innovation Officer** at Hopefill Foundation[cite: 50]. [cite_start]My work involves designing digital systems for internal communications, implementing cybersecurity protocols, and leading digital literacy training for staff and volunteers[cite: 52, 54, 55].
-
-[cite_start]I bring a unique **people-first mindset** to tech, rooted in my background in customer service and virtual assistance[cite: 5, 80]. [cite_start]I am passionate about leveraging technical innovation to solve real-world problems while ensuring data protection and ethical tech practices[cite: 24, 55, 56].
+I am an enthusiastic and driven student with a dual focus on Front-End Development and Cybersecurity, seeking to contribute to innovative and secure digital solutions. I possess a foundation in technology principles coupled with strong interpersonal, organizational, and digital skills. My core strengths include problem-solving, analytical thinking, and a commitment to continuous learning.
 
 ---
 
-### 🛠️ Technical Toolkit
+Technical Skills
 
-#### 🧩 Frontend Development
-- [cite_start]**Languages:** HTML5, JavaScript (ES6+), CSS3 [cite: 10, 86]
-- [cite_start]**Frameworks/Libraries:** React.js [cite: 11][cite_start], Tailwind CSS [cite: 12]
-- [cite_start]**Design & UI:** Figma [cite: 88][cite_start], Responsive User Interfaces [cite: 11]
+Front-End Development
+Languages: HTML, CSS, JavaScript
+Frameworks: React.js, Tailwind CSS
+Design Tools: Figma
 
-#### 🧱 Backend & Data
-- [cite_start]**Languages/Frameworks:** Python [cite: 13][cite_start], Django [cite: 13][cite_start], Django REST Framework (DRF) [cite: 15]
-- [cite_start]**Databases:** SQL [cite: 67][cite_start], Understanding of Database Management [cite: 14]
-- [cite_start]**API Development:** Building and managing RESTful APIs [cite: 15]
+Back-End and API Development
+Languages: Python
+Frameworks: Django, Django REST Framework
+Data: SQL and Database Management
 
-#### 🛡️ Cybersecurity & Systems
-- [cite_start]**Security:** Establishing basic cybersecurity protocols and access controls [cite: 55]
-- [cite_start]**Data Protection:** Maintaining data protection standards for digital assets [cite: 55]
-- [cite_start]**Tools:** Git, GitHub [cite: 16][cite_start], Google Workspace [cite: 52][cite_start], Notion, Trello [cite: 52]
-
----
-
-### 🔨 Featured Projects
-
-* [cite_start]**🏋️ FitGirls Tracker** [cite: 17]
-    * [cite_start]A full-stack application developed using **React.js** and **Tailwind CSS** for the front-end and a **Django REST API** for the back-end[cite: 17]. 
-    * [cite_start]Demonstrates end-to-end development skills, allowing users to log workouts and fitness experts to share plans[cite: 69, 70].
-* **🌐 Personal Portfolio**
-    * [cite_start]A professional showcase of my technical skills, resume, and learning journey[cite: 7].
+Cybersecurity and Systems
+Protocols: Establishing cybersecurity protocols and data protection standards
+Access Control: Maintaining access controls for organizational digital assets
+Platforms: Git, GitHub, Google Workspace, Notion, Trello
 
 ---
 
-### 📈 Current Professional Impact
+Professional Experience
 
-* [cite_start]**Digital Strategy:** Managing digital systems for remote collaboration and project tracking at Hopefill Foundation[cite: 52].
-* [cite_start]**Capacity Building:** Developing and leading training sessions on digital collaboration tools[cite: 54].
-* [cite_start]**Innovation:** Assisting in the development of tech-driven prototypes to address community needs[cite: 56].
+Technology and Digital Innovation Officer | Hopefill Foundation
+May 2025 – Present
+- Designed and implemented digital systems for internal communications and project tracking.
+- Developed and led training sessions for staff and volunteers on digital collaboration tools.
+- Established basic cybersecurity protocols and maintained data protection standards.
+- Assisted in the development of tech-driven solutions and prototypes to address community needs.
+
+Chief Organizing Secretary and Social Media Assistant | Hopefill Foundation
+January 2025 – May 2025
+- Responsible for the planning, coordination, and execution of organizational activities and events.
+- Managed social media platforms to raise awareness for mental health initiatives.
 
 ---
 
-### 📫 How to Reach Me
+Featured Projects
 
-- [cite_start]📧 Email: [stacychege23@gmail.com](mailto:stacychege23@gmail.com) [cite: 1]
-- [cite_start]📍 Location: Nairobi, Kenya [cite: 1]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+FitGirls Tracker
+- Developed a full-stack application using React.js and Tailwind CSS for the front-end and a Django REST API for the back-end.
+- Designed the system to allow users to log workouts and fitness experts to share workout plans.
 
 ---
 
-### 🧠 Fun Fact
+Education and Certifications
 
-> I believe in **progress over perfection** and I’m proud to grow, lead, and show up authentically in this exciting space. 🌱
+- Full-Stack Software Engineering Program | ALX Africa
+- Professional Foundations Course | ALX Africa
+- AI Augmented Professional Development Skills | ALX Africa
+- Virtual Assistant Certification | Alison Online Education Institute
+- Front Office and Customer Service | Nairobi Institute of Business Studies
+
+---
+
+Contact Details
+
+Email: stacychege23@gmail.com
+Location: Nairobi, Kenya
